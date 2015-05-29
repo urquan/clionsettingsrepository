@@ -1,5 +1,8 @@
 <code_scheme name="Ravenwood">
   <Objective-C>
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
   </Objective-C>
@@ -30,4 +33,14 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
