@@ -4,7 +4,4 @@
     <option name="minGWHomePath" value="C:\Program Files\mingw-w64\x86_64-4.9.2-posix-seh-rt_v3-rev1\mingw64" />
     <option name="winEnvironment" value="MINGW" />
   </component>
-  <component name="OCNewClassSettings">
-    <option name="mySkipAddingToTheProject" value="true" />
-  </component>
 </application>
