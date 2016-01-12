@@ -30,6 +30,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="ObjectiveC">
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
