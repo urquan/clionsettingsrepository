@@ -27,6 +27,9 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="ObjectiveC">
     <option name="BRACE_STYLE" value="2" />
   </codeStyleSettings>
