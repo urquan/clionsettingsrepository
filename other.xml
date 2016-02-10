@@ -6,4 +6,7 @@
     <option name="useBundledCMake" value="false" />
     <option name="winEnvironment" value="MINGW" />
   </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
 </application>
