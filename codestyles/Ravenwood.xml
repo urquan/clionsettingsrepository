@@ -1,7 +1,4 @@
-<code_scheme name="Revan">
-  <Objective-C>
-    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
-  </Objective-C>
+<code_scheme name="Ravenwood">
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
     <option name="RELEASE_STYLE" value="IVAR" />
@@ -34,8 +31,6 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="ObjectiveC">
-    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
-    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="BRACE_STYLE" value="2" />
   </codeStyleSettings>
 </code_scheme>
